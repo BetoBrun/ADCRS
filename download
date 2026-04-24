@@ -1,0 +1,5 @@
+{
+  "observacao": "O frontend gera payload completo dinamicamente. Este arquivo é apenas marcador de exemplo para documentação.",
+  "endpoint": "/api/v1/fia/simular",
+  "modo": "usar o botão 'Testar backend' no dashboard"
+}
